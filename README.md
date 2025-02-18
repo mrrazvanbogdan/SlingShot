@@ -41,17 +41,3 @@ This game, **SlingShot**, was created as part of my **portfolio**, as a way to *
 
 ---
 
-## 📷 Screenshots
-_(Add images here to make your README more attractive)_  
-Example:  
-![Gameplay Screenshot](https://your-image-link.com)  
-
----
-
-## 🔗 Links
-- **GitHub Repository**: [SlingShot](https://github.com/mrrazvanbogdan/SlingShot)
-- **Download Latest Release**: [Releases](https://github.com/mrrazvanbogdan/SlingShot/releases)
-
----
-
-Acest README îmbunătățit va face pagina proiectului tău **mai profesională și mai ușor de citit**. Încarcă-l pe GitHub și vei vedea îmbunătățirea în pagina proiectului! 🚀
