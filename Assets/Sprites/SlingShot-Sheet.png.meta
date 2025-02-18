@@ -1,0 +1,1216 @@
+fileFormatVersion: 2
+guid: 615eb13d19c7e354b8247a444a34edb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4052886725512566304
+    second: SlingShot-Sheet_0
+  - first:
+      213: -6973035357185448733
+    second: SlingShot-Sheet_1
+  - first:
+      213: -4898178295380021446
+    second: SlingShot-Sheet_2
+  - first:
+      213: -2435822838769587993
+    second: SlingShot-Sheet_3
+  - first:
+      213: 2715214442903795867
+    second: SlingShot-Sheet_4
+  - first:
+      213: -1210247434203210706
+    second: SlingShot-Sheet_5
+  - first:
+      213: 3672753920901968533
+    second: SlingShot-Sheet_6
+  - first:
+      213: 4399737269853897592
+    second: SlingShot-Sheet_7
+  - first:
+      213: -1180926021823401657
+    second: SlingShot-Sheet_8
+  - first:
+      213: 1081104923690365153
+    second: SlingShot-Sheet_9
+  - first:
+      213: -755286115146223163
+    second: SlingShot-Sheet_10
+  - first:
+      213: -1306991853974431468
+    second: SlingShot-Sheet_11
+  - first:
+      213: -1412205154088298615
+    second: SlingShot-Sheet_12
+  - first:
+      213: 1253072743681678764
+    second: SlingShot-Sheet_13
+  - first:
+      213: 3660812098450445602
+    second: SlingShot-Sheet_14
+  - first:
+      213: 1457260544420090354
+    second: SlingShot-Sheet_15
+  - first:
+      213: 2861641839014730150
+    second: SlingShot-Sheet_16
+  - first:
+      213: 5538950610999421192
+    second: SlingShot-Sheet_17
+  - first:
+      213: 7052662999975578873
+    second: SlingShot-Sheet_18
+  - first:
+      213: 1148453578085545623
+    second: SlingShot-Sheet_19
+  - first:
+      213: -5543300516048490551
+    second: SlingShot-Sheet_20
+  - first:
+      213: -2612199203997322900
+    second: SlingShot-Sheet_21
+  - first:
+      213: 5731612194177164933
+    second: SlingShot-Sheet_22
+  - first:
+      213: 8779556794780050283
+    second: SlingShot-Sheet_23
+  - first:
+      213: -2333191948872472222
+    second: SlingShot-Sheet_24
+  - first:
+      213: 3238450538517164403
+    second: SlingShot-Sheet_25
+  - first:
+      213: 8707720357509668906
+    second: SlingShot-Sheet_26
+  - first:
+      213: 3175378218247904190
+    second: SlingShot-Sheet_27
+  - first:
+      213: 8792935138739620669
+    second: SlingShot-Sheet_28
+  - first:
+      213: -8686792024040756207
+    second: SlingShot-Sheet_29
+  - first:
+      213: 3671300809217125299
+    second: SlingShot-Sheet_30
+  - first:
+      213: -2782426795694491174
+    second: SlingShot-Sheet_31
+  - first:
+      213: 8371647129389462666
+    second: SlingShot-Sheet_32
+  - first:
+      213: 4226499549073620808
+    second: SlingShot-Sheet_33
+  - first:
+      213: 2589736066792296093
+    second: SlingShot-Sheet_34
+  - first:
+      213: -4505714191932160883
+    second: SlingShot-Sheet_35
+  - first:
+      213: 2637693211443932630
+    second: SlingShot-Sheet_36
+  - first:
+      213: 8974991945336095119
+    second: SlingShot-Sheet_37
+  - first:
+      213: -7373318980921438044
+    second: SlingShot-Sheet_38
+  - first:
+      213: 5413540433520665582
+    second: SlingShot-Sheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlingShot-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1027
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0269215f00fbe3830800000000000000
+      internalID: 4052886725512566304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1027
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4e8b0994dca3f90800000000000000
+      internalID: -6973035357185448733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1027
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f6851cacc260cb0800000000000000
+      internalID: -4898178295380021446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1027
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8ea5f9808323ed0800000000000000
+      internalID: -2435822838769587993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1027
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b987a4666216ea520800000000000000
+      internalID: 2715214442903795867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1027
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c5df9ee56543fe0800000000000000
+      internalID: -1210247434203210706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1027
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592f8c26b3e38f230800000000000000
+      internalID: 3672753920901968533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1027
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87340b27cb10f0d30800000000000000
+      internalID: 4399737269853897592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1027
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741733b3a028c9fe0800000000000000
+      internalID: -1180926021823401657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1027
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e07d7d333bd00f00800000000000000
+      internalID: 1081104923690365153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1027
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1bceaa74fa485f0800000000000000
+      internalID: -755286115146223163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 838
+        width: 37
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419568365d1acdde0800000000000000
+      internalID: -1306991853974431468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 930
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987579005e6d66ce0800000000000000
+      internalID: -1412205154088298615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 965
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadded4750fc36110800000000000000
+      internalID: 1253072743681678764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 965
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225579d2531ddc230800000000000000
+      internalID: 3660812098450445602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 965
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f11a578eba393410800000000000000
+      internalID: 1457260544420090354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 709
+        width: 509
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a95ed8471896b720800000000000000
+      internalID: 2861641839014730150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 847
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809ad0deb3e4edc40800000000000000
+      internalID: 5538950610999421192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 853
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcc512c1a710e160800000000000000
+      internalID: 7052662999975578873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 825
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796b0dac17020ff00800000000000000
+      internalID: 1148453578085545623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 828
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfa0b1ec8d3213b0800000000000000
+      internalID: -5543300516048490551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 787
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c617e2bf9aa9fbbd0800000000000000
+      internalID: -2612199203997322900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 790
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5862a385ce6ca8f40800000000000000
+      internalID: 5731612194177164933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 799
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b636b36836047d970800000000000000
+      internalID: 8779556794780050283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 659
+        width: 41
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269a7a6c846de9fd0800000000000000
+      internalID: -2333191948872472222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 759
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371fcf25b9941fc20800000000000000
+      internalID: 3238450538517164403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 748
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a202dc8978908d870800000000000000
+      internalID: 8707720357509668906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 644
+        width: 512
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbdd266aa5311c20800000000000000
+      internalID: 3175378218247904190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 617
+        width: 124
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b00a5fbe7c60a70800000000000000
+      internalID: 8792935138739620669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 323
+        width: 511
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11caa51cda0527780800000000000000
+      internalID: -8686792024040756207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 388
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbadf472a413f230800000000000000
+      internalID: 3671300809217125299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 504
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9f91d3295d269d0800000000000000
+      internalID: -2782426795694491174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 230
+        width: 222
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a847d2495b01e2470800000000000000
+      internalID: 8371647129389462666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 165
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fb1e962fa87aa30800000000000000
+      internalID: 4226499549073620808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 228
+        width: 127
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e0c235b3790f320800000000000000
+      internalID: 2589736066792296093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 102
+        width: 64
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84827290dc7871c0800000000000000
+      internalID: -4505714191932160883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 69
+        width: 63
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd239e2008fa9420800000000000000
+      internalID: 2637693211443932630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 70
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8100cb6f939d8c70800000000000000
+      internalID: 8974991945336095119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 69
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0588ec375bca990800000000000000
+      internalID: -7373318980921438044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 6
+        width: 191
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3a6359752c02b40800000000000000
+      internalID: 5413540433520665582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 748
+        width: 132
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6b8fe0a795f3446965cc119023df36
+      internalID: -836367604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingShot-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1027
+        width: 195
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f1ee5358d8eb14d968b51de93a234e
+      internalID: 1489539123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SlingShot-Sheet_0: 4052886725512566304
+      SlingShot-Sheet_1: -6973035357185448733
+      SlingShot-Sheet_10: -755286115146223163
+      SlingShot-Sheet_11: -1306991853974431468
+      SlingShot-Sheet_12: -1412205154088298615
+      SlingShot-Sheet_13: 1253072743681678764
+      SlingShot-Sheet_14: 3660812098450445602
+      SlingShot-Sheet_15: 1457260544420090354
+      SlingShot-Sheet_16: 2861641839014730150
+      SlingShot-Sheet_17: 5538950610999421192
+      SlingShot-Sheet_18: 7052662999975578873
+      SlingShot-Sheet_19: 1148453578085545623
+      SlingShot-Sheet_2: -4898178295380021446
+      SlingShot-Sheet_20: -5543300516048490551
+      SlingShot-Sheet_21: -2612199203997322900
+      SlingShot-Sheet_22: 5731612194177164933
+      SlingShot-Sheet_23: 8779556794780050283
+      SlingShot-Sheet_24: -2333191948872472222
+      SlingShot-Sheet_25: 3238450538517164403
+      SlingShot-Sheet_26: 8707720357509668906
+      SlingShot-Sheet_27: 3175378218247904190
+      SlingShot-Sheet_28: 8792935138739620669
+      SlingShot-Sheet_29: -8686792024040756207
+      SlingShot-Sheet_3: -2435822838769587993
+      SlingShot-Sheet_30: 3671300809217125299
+      SlingShot-Sheet_31: -2782426795694491174
+      SlingShot-Sheet_32: 8371647129389462666
+      SlingShot-Sheet_33: 4226499549073620808
+      SlingShot-Sheet_34: 2589736066792296093
+      SlingShot-Sheet_35: -4505714191932160883
+      SlingShot-Sheet_36: 2637693211443932630
+      SlingShot-Sheet_37: 8974991945336095119
+      SlingShot-Sheet_38: -7373318980921438044
+      SlingShot-Sheet_39: 5413540433520665582
+      SlingShot-Sheet_4: 2715214442903795867
+      SlingShot-Sheet_40: -836367604
+      SlingShot-Sheet_41: 1489539123
+      SlingShot-Sheet_5: -1210247434203210706
+      SlingShot-Sheet_6: 3672753920901968533
+      SlingShot-Sheet_7: 4399737269853897592
+      SlingShot-Sheet_8: -1180926021823401657
+      SlingShot-Sheet_9: 1081104923690365153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
