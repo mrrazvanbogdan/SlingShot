@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using NUnit.Framework;
 using UnityEngine;
 using System.Collections.Generic;
@@ -6,8 +6,6 @@ using Unity.VisualScripting;
 using UnityEngine.SceneManagement;
 using DG.Tweening;
 using UnityEngine.UI;
-
-
 
 public class GameManager : MonoBehaviour
 {
@@ -20,9 +18,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] private Button nextLevelButton;
 
     private int usedNumberOfShots;
-
+    private bool isPaused = false;
     private IconHandler iconHandler;
-
     private List<Enemy> enemies = new List<Enemy>();
 
     private void Awake()
@@ -48,31 +45,43 @@ public class GameManager : MonoBehaviour
             nextLevelButton.onClick.AddListener(NextLevel);
         }
 
+        
+        if (restartScreenObject != null)
+        {
+            restartScreenObject.SetActive(false);
+        }
+    }
+
+    private void Update()
+    {
+        
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (isPaused)
+            {
+                ResumeGame();
+            }
+            else
+            {
+                PauseGame();
+            }
+        }
     }
 
     public void UseShot()
     {
         usedNumberOfShots++;
         iconHandler.UseShot(usedNumberOfShots);
-
         CheckForLastShot();
     }
 
     public bool HasEnoughShots()
     {
-        if (usedNumberOfShots < MaxNumberOfShots)
-        {
-            return true;
-        }
-
-        else
-        {
-            return false;
-        }
+        return usedNumberOfShots < MaxNumberOfShots;
     }
 
     public void CheckForLastShot()
-    { 
+    {
         if (usedNumberOfShots == MaxNumberOfShots)
         {
             StartCoroutine(CheckAfterWaitTime());
@@ -87,7 +96,6 @@ public class GameManager : MonoBehaviour
         {
             WinGame();
         }
-
         else
         {
             RestartGame();
@@ -130,24 +138,24 @@ public class GameManager : MonoBehaviour
     public void RestartGame()
     {
         DOTween.Clear(true);
+        Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void NextLevel()
     {
         DOTween.Clear(true);
+        Time.timeScale = 1;
 
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         int totalScenes = SceneManager.sceneCountInBuildSettings;
 
         if (currentSceneIndex + 1 < totalScenes)
         {
-            
             SceneManager.LoadScene(currentSceneIndex + 1);
         }
         else
         {
-           
             SceneManager.LoadScene(0);
         }
     }
@@ -156,5 +164,24 @@ public class GameManager : MonoBehaviour
     {
         Application.Quit();
     }
+
+    #endregion
+
+    #region Pause / Resume
+
+    public void PauseGame()
+    {
+        isPaused = true;
+        restartScreenObject.SetActive(true);
+        Time.timeScale = 0;
+    }
+
+    public void ResumeGame()
+    {
+        isPaused = false;
+        restartScreenObject.SetActive(false);
+        Time.timeScale = 1;
+    }
+
     #endregion
 }
